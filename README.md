@@ -1,7 +1,7 @@
 # KhalDrogo - Monte Carlo Neutron Transport Code
 
 ## Description
-KhalDrogo is a Monte Carlo neutron transport simulation code designed for reactor criticality analysis. The first version of this code was developed as part of nuclear engineering studies for the Monte Carlo course held by Pofessor J. Leppanen at Aalto University. The code implements a robust delta tracking algorithm for efficient neutron transport in complex geometries.
+KhalDrogo is a Monte Carlo neutron transport simulation code designed for reactor criticality analysis. The first version of this code was developed as part of nuclear engineering studies for the Monte Carlo course held by Pofessor J. Leppänen at Aalto University. The code implements a robust delta tracking algorithm for efficient neutron transport in complex geometries.
 
 ## Features
 - Delta Tracking Algorithm: Efficient neutron transport through heterogeneous materials
