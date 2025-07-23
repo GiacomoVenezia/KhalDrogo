@@ -1,0 +1,16 @@
+# Executables
+drogo
+*.exe
+*.out
+a.out
+
+# Compilation files
+*.o
+*.obj
+
+# vscode settings
+.vscode/
+
+# Temporary system files
+.DS_Store
+*~
